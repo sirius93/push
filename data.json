@@ -1,0 +1,16 @@
+{
+  "message": [
+    {
+      "title": "Greeting from sapient",
+      "body": "Hello Buddy",
+      "id": 1,
+      "icon": "./images/sapicon.png"
+    }
+],
+"recievers": [
+  {
+    "id": 1,
+    "recArray": []
+  }
+]
+}

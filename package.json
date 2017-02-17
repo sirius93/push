@@ -1,0 +1,24 @@
+{
+  "name": "pushserver",
+  "version": "1.0.0",
+  "description": "Push Messaging and Notification Sample\r ===",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "dependencies": {
+    "curl": "^0.1.4",
+    "curlrequest": "^1.0.1",
+    "express": "^4.14.1",
+    "json-server": "^0.9.5",
+    "node-gcm": "^0.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "pushteam",
+  "license": "ISC"
+}
